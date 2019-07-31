@@ -82,7 +82,7 @@ draft-ietf-dnsop-aname, Matthijs Mekking
         Brian Dickson: Also likes HTTPSSVC
                 For the API use cases, maybe go to SRV instead of ANAME
         Petr Špaček: ANAME sections 5 and 6 need more work
-                Matthijs: Not wanting to have ANAME in WG last call
+        Matthijs: Not wanting to have ANAME -04 in WG last call
         David Lawrence: Didn't understand Tim's points
                 Tim: Seeing lots of stuff with "service endpoints"
                         Backend servers talking to services and others
